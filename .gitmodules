@@ -1,0 +1,4 @@
+[submodule "vendor/github.com/sorcix/irc"]
+	path = vendor/github.com/sorcix/irc
+	url = https://github.com/sorcix/irc
+	branch = master
